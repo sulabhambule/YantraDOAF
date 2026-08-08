@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.groundreference.converter.app-mergeDebugResources-41:/values-v31/values-v31.xml",
+            "map": [
+                {
+                    "source": "D:\\Downloads\\GroundReferenceConverterAndroid\\GroundReferenceConverterAndroid\\app\\src\\main\\res\\values-v31\\themes.xml",
+                    "from": {
+                        "startLines": "0",
+                        "startColumns": "49",
+                        "startOffsets": "49",
+                        "endColumns": "384",
+                        "endOffsets": "384"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "339",
+                        "endOffsets": "390"
+                    }
+                }
+            ]
+        }
+    ]
+}

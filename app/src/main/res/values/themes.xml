@@ -1,0 +1,9 @@
+<resources>
+    <!-- Base theme is only used for the tiny window-launch flash before
+         Compose takes over; all real theming happens in Theme.kt via
+         Material3's MaterialTheme composable. -->
+    <style name="Theme.GroundReferenceConverter" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/ic_launcher_background</item>
+        <item name="android:statusBarColor">@color/ic_launcher_background</item>
+    </style>
+</resources>

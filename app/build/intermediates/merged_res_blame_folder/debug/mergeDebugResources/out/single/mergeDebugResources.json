@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.groundreference.converter.app-debug-43:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.groundreference.converter.app-main-45:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\sulab\\.gradle\\daemon\\8.7\\com.groundreference.converter.app-debug-43:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\sulab\\.gradle\\daemon\\8.7\\com.groundreference.converter.app-main-45:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\sulab\\.gradle\\daemon\\8.7\\com.groundreference.converter.app-debug-43:\\mipmap-xxxhdpi_ic_launcher.jpg.flat",
+        "source": "C:\\Users\\sulab\\.gradle\\daemon\\8.7\\com.groundreference.converter.app-main-45:\\mipmap-xxxhdpi\\ic_launcher.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sulab\\.gradle\\daemon\\8.7\\com.groundreference.converter.app-debug-43:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\sulab\\.gradle\\daemon\\8.7\\com.groundreference.converter.app-main-45:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\sulab\\.gradle\\daemon\\8.7\\com.groundreference.converter.app-debug-43:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\sulab\\.gradle\\daemon\\8.7\\com.groundreference.converter.app-main-45:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\sulab\\.gradle\\daemon\\8.7\\com.groundreference.converter.app-debug-43:\\mipmap-xxxhdpi_ic_launcher_img.jpg.flat",
+        "source": "C:\\Users\\sulab\\.gradle\\daemon\\8.7\\com.groundreference.converter.app-main-45:\\mipmap-xxxhdpi\\ic_launcher_img.jpg"
+    },
+    {
+        "merged": "com.groundreference.converter.app-debug-43:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.groundreference.converter.app-main-45:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]
